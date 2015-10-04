@@ -1,2 +1,2 @@
-# cs-290-example
+# cs290
 Demo
